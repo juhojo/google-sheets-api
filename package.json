@@ -24,8 +24,9 @@
     "url": "https://github.com/SC5/google-sheets-api/issues"
   },
   "dependencies": {
+    "google-auth-library": "^7.10.2",
     "googleapis": "^59.0.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "polyfill-promise": "^4.0.0",
     "request": "^2.54.0"
   },
